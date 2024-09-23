@@ -1,0 +1,62 @@
+Data e Hora:
+Mon Sep 23 03:15:01 PM UTC 2024
+Frase aleatoria:
+Windows
+Disco livre e utilizado:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.6G  2.4M  1.6G   1% /run
+/dev/sda4        98G   48G   48G  50% /
+tmpfs           7.8G   12M  7.8G   1% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        256K   77K  175K  31% /sys/firmware/efi/efivars
+tmpfs           7.8G     0  7.8G   0% /run/qemu
+/dev/sda5       1.1G  6.2M  1.1G   1% /boot/efi
+/dev/sda2       832G   82G  751G  10% /mnt/A8CC1694CC165CBE
+tmpfs           1.6G  9.2M  1.6G   1% /run/user/1000
+Memoria livre e utilizada:
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       5.0Gi       5.8Gi       145Mi       5.1Gi        10Gi
+Swap:          1.9Gi          0B       1.9Gi
+Listar arquivos de Downloads:
+07.04.2016-11.46.png
+docker-desktop-amd64.deb
+jantarDosFilosofos.zip
+Matemática Discreta - Avaliação-1.pdf
+thunderbird.tmp
+vagrant-2.4.1-1.x86_64.rpm
+virtualbox-7.0_7.0.20-163906~Ubuntu~noble_amd64.deb
+Encontrar imagens, audio e videos na home:
+669
+0
+2
+Data e Hora:
+Mon Sep 23 03:20:02 PM UTC 2024
+Frase aleatoria:
+programacao
+Disco livre e utilizado:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.6G  2.4M  1.6G   1% /run
+/dev/sda4        98G   48G   48G  50% /
+tmpfs           7.8G   12M  7.8G   1% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        256K   77K  175K  31% /sys/firmware/efi/efivars
+tmpfs           7.8G     0  7.8G   0% /run/qemu
+/dev/sda5       1.1G  6.2M  1.1G   1% /boot/efi
+/dev/sda2       832G   82G  751G  10% /mnt/A8CC1694CC165CBE
+tmpfs           1.6G  9.2M  1.6G   1% /run/user/1000
+Memoria livre e utilizada:
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       4.7Gi       6.1Gi       124Mi       5.0Gi        10Gi
+Swap:          1.9Gi          0B       1.9Gi
+Listar arquivos de Downloads:
+07.04.2016-11.46.png
+docker-desktop-amd64.deb
+jantarDosFilosofos.zip
+Matemática Discreta - Avaliação-1.pdf
+thunderbird.tmp
+vagrant-2.4.1-1.x86_64.rpm
+virtualbox-7.0_7.0.20-163906~Ubuntu~noble_amd64.deb
+Encontrar imagens, audio e videos na home:
+669
+0
+2
