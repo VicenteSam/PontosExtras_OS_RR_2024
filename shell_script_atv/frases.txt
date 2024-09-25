@@ -1,9 +1,0 @@
-programacao
-sistemas operacionais
-professor
-teste
-aluno
-ufrr
-script
-linux
-windows
